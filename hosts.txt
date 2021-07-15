@@ -29,6 +29,23 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+#
+0.0.0.0 xxb.mobi
+0.0.0.0 elbrasombre.com
+0.0.0.0 xrelacspics.com
+0.0.0.0 live2hustle.net
+0.0.0.0 tittydrop.com
+0.0.0.0 www.tittydrop.com
+0.0.0.0 plexstorm.com
+0.0.0.0 www.plexstorm.com
+0.0.0.0 flirtymania.com
+0.0.0.0 www.flirtymania.com
 
 # End of custom host records.
 # Start StevenBlack
@@ -66058,20 +66075,3 @@ ff02::3 ip6-allhosts
 
 # End yoyo.org
 
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-#
-0.0.0.0 xxb.mobi
-0.0.0.0 elbrasombre.com
-0.0.0.0 xrelacspics.com
-0.0.0.0 live2hustle.net
-0.0.0.0 tittydrop.com
-0.0.0.0 www.tittydrop.com
-0.0.0.0 plexstorm.com
-0.0.0.0 www.plexstorm.com
-0.0.0.0 flirtymania.com
-0.0.0.0 www.flirtymania.com
