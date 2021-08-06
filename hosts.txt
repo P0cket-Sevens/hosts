@@ -1777,10 +1777,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 mysterysnooper.com
 0.0.0.0 www.mysterysnooper.com
 0.0.0.0 dlee889.mywire.org
-0.0.0.0 mywot.com
-0.0.0.0 www.mywot.com
-0.0.0.0 mywot.net
-0.0.0.0 www.mywot.net
+#0.0.0.0 mywot.com
+#0.0.0.0 www.mywot.com
+#0.0.0.0 mywot.net
+#0.0.0.0 www.mywot.net
 0.0.0.0 myyserviceupdater.com
 0.0.0.0 n13x4nfw8frika.com
 0.0.0.0 thz.nadvpnu.com
