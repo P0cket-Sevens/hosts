@@ -46,6 +46,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.plexstorm.com
 0.0.0.0 flirtymania.com
 0.0.0.0 www.flirtymania.com
+0.0.0.0 findmylove21.xyz
+0.0.0.0 findcutegirls.to
 
 # End of custom host records.
 # Start StevenBlack
