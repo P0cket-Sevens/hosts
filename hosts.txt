@@ -55,6 +55,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 xxxlingerie.club
 0.0.0.0 hosteagle.club
 0.0.0.0 proxyscrape.com
+0.0.0.0 proxysite.com
+0.0.0.0 hidester.com
+0.0.0.0 croxyproxy.net
+0.0.0.0 blockaway.net
 
 # End of custom host records.
 # Start StevenBlack
