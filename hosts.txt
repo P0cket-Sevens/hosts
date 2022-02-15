@@ -53,6 +53,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cutegirl21.com
 0.0.0.0 findmyloves.buzz
 0.0.0.0 xxxlingerie.club
+0.0.0.0 hosteagle.club
+0.0.0.0 proxyscrape.com
 
 # End of custom host records.
 # Start StevenBlack
