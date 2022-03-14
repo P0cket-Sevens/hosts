@@ -60,6 +60,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 croxyproxy.net
 0.0.0.0 blockaway.net
 0.0.0.0 erocast.me
+0.0.0.0 coub.com
 
 # End of custom host records.
 # Start StevenBlack
