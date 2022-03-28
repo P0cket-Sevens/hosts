@@ -62,6 +62,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 erocast.me
 0.0.0.0 coub.com
 0.0.0.0 recurbate.cc
+0.0.0.0 thetfp.com
 
 # End of custom host records.
 # Start StevenBlack
