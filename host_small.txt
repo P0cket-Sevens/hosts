@@ -65,5 +65,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 thetfp.com
 0.0.0.0	phinnweb.org
 0.0.0.0 lessons-of-passion.wixsite.com
-
-
+0.0.0.0	twitter.com
