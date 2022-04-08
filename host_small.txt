@@ -66,3 +66,8 @@
 0.0.0.0	phinnweb.org
 0.0.0.0 lessons-of-passion.wixsite.com
 0.0.0.0	twitter.com
+0.0.0.0	youtubensfw.com
+0.0.0.0 wallhere.com
+0.0.0.0	newgrounds.com
+0.0.0.0	deviantart.com
+0.0.0.0 twuko.com
