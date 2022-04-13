@@ -71,3 +71,5 @@
 0.0.0.0	newgrounds.com
 0.0.0.0	deviantart.com
 0.0.0.0 twuko.com
+0.0.0.0	lesbianscissorx.com
+0.0.0.0	croxyproxy.com
