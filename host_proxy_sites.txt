@@ -1,0 +1,30 @@
+# Title: Hosts Proxy Sites
+#
+# This hosts file is a collection of proxy sites so proxy websites
+# can be blocked.  Proxy lists are pulled from various websites
+# and manually added to this list.
+# ===============================================================
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+#
+0.0.0.0 proxysite.com
+0.0.0.0 hide.me
+0.0.0.0 whoer.net
+0.0.0.0 croxyproxy.com
+0.0.0.0 4everproxy.com
+0.0.0.0 privoxy.org
+0.0.0.0 turbohide.org
+0.0.0.0 vpnbook.com
+0.0.0.0 filterbypass.me
+0.0.0.0 kproxy.com
+0.0.0.0 hidester.com
+0.0.0.0 unblockproxy.me
+0.0.0.0 jailbreaked.net
+0.0.0.0 unblockvideo.net
+0.0.0.0 dontfilter.us
+0.0.0.0 anonymizing.com
