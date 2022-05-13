@@ -74,3 +74,4 @@
 0.0.0.0	lesbianscissorx.com
 0.0.0.0	croxyproxy.com
 0.0.0.0 flirtyme3t.com
+0.0.0.0 reddit.com
