@@ -28,3 +28,20 @@
 0.0.0.0 unblockvideo.net
 0.0.0.0 dontfilter.us
 0.0.0.0 anonymizing.com
+0.0.0.0 www.proxysite.com
+0.0.0.0 www.hide.me
+0.0.0.0 www.whoer.net
+0.0.0.0 www.croxyproxy.com
+0.0.0.0 www.4everproxy.com
+0.0.0.0 www.privoxy.org
+0.0.0.0 www.turbohide.org
+0.0.0.0 www.vpnbook.com
+0.0.0.0 www.filterbypass.me
+0.0.0.0 www.kproxy.com
+0.0.0.0 www.hidester.com
+0.0.0.0 www.unblockproxy.me
+0.0.0.0 www.jailbreaked.net
+0.0.0.0 www.unblockvideo.net
+0.0.0.0 www.dontfilter.us
+0.0.0.0 www.anonymizing.com
+
