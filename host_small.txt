@@ -54,11 +54,6 @@
 0.0.0.0 findmyloves.buzz
 0.0.0.0 xxxlingerie.club
 0.0.0.0 hosteagle.club
-0.0.0.0 proxyscrape.com
-0.0.0.0 proxysite.com
-0.0.0.0 hidester.com
-0.0.0.0 croxyproxy.net
-0.0.0.0 blockaway.net
 0.0.0.0 erocast.me
 0.0.0.0 coub.com
 0.0.0.0 recurbate.cc
@@ -75,6 +70,7 @@
 0.0.0.0	croxyproxy.com
 0.0.0.0 flirtyme3t.com
 0.0.0.0 reddit.com
+0.0.0.0 vk.com
 0.0.0.0 www.xxb.mobi
 0.0.0.0 www.elbrasombre.com
 0.0.0.0 www.xrelacspics.com
@@ -87,11 +83,6 @@
 0.0.0.0 www.findmyloves.buzz
 0.0.0.0 www.xxxlingerie.club
 0.0.0.0 www.hosteagle.club
-0.0.0.0 www.proxyscrape.com
-0.0.0.0 www.proxysite.com
-0.0.0.0 www.hidester.com
-0.0.0.0 www.croxyproxy.net
-0.0.0.0 www.blockaway.net
 0.0.0.0 www.erocast.me
 0.0.0.0 www.coub.com
 0.0.0.0 www.recurbate.cc
@@ -108,3 +99,4 @@
 0.0.0.0 www.croxyproxy.com
 0.0.0.0 www.flirtyme3t.com
 0.0.0.0 www.reddit.com
+0.0.0.0 www.vk.com
