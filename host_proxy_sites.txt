@@ -41,4 +41,7 @@
 0.0.0.0	xroxy.com
 0.0.0.0	zend2.com
 0.0.0.0	hidemyass.com
-
+0.0.0.0 proxfree.com
+0.0.0.0 freeproxy.win
+0.0.0.0 weboproxy.com
+0.0.0.0 genmirror.com
