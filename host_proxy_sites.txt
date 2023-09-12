@@ -28,6 +28,7 @@
 0.0.0.0	kproxy.com
 0.0.0.0	megaproxy.com.ar
 0.0.0.0	privoxy.org
+0.0.0.0 proxify.com
 0.0.0.0	proxyium.com
 0.0.0.0	proxysite.cloud
 0.0.0.0	proxysite.com
@@ -45,3 +46,5 @@
 0.0.0.0 freeproxy.win
 0.0.0.0 weboproxy.com
 0.0.0.0 genmirror.com
+0.0.0.0 www.privoxy.org
+0.0.0.0	www.proxysite.com
