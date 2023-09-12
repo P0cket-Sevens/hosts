@@ -2,9 +2,10 @@
 #
 # This hosts file is a collection of proxy sites so proxy websites
 # can be blocked.  Proxy lists are pulled from various websites
-# and manually added to this list.
+# and manually added to this list.  If you see any items that should
+# be added to this list, please let me know at pctsevens@gmail.com.
 # ===============================================================
-
+#
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
