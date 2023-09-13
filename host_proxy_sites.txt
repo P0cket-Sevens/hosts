@@ -28,6 +28,7 @@
 0.0.0.0	jailbreaked.net
 0.0.0.0	kproxy.com
 0.0.0.0	megaproxy.com.ar
+0.0.0.0 plainproxies.com
 0.0.0.0	privoxy.org
 0.0.0.0 proxify.com
 0.0.0.0	proxyium.com
@@ -80,3 +81,4 @@
 0.0.0.0 www.freeproxy.win
 0.0.0.0 www.weboproxy.com
 0.0.0.0 www.genmirror.com
+0.0.0.0 www.plainproxies.com
