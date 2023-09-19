@@ -48,6 +48,7 @@
 0.0.0.0 proxythepiratebay.org
 0.0.0.0	sslsecureproxy.com
 0.0.0.0 stopcensoring.me
+0.0.0.0 steganos.com
 0.0.0.0	turbohide.org
 0.0.0.0	unblockproxy.me
 0.0.0.0	unblockvideo.net
@@ -84,6 +85,7 @@
 0.0.0.0	www.proxysite.page
 0.0.0.0	www.proxysite.page
 0.0.0.0	www.sslsecureproxy.com
+0.0.0.0 www.steganos.com
 0.0.0.0	www.turbohide.org
 0.0.0.0	www.unblockproxy.me
 0.0.0.0	www.unblockvideo.net
