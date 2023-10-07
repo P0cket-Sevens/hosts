@@ -7,3 +7,5 @@ This is a customized hosts file for myself.  It is a modified version of Steven 
 
 This hosts file is a manual collection of proxy sites so proxy websites can be blocked.  Proxy lists are pulled from various websites
 and manually added to this list.  If you see any items that should be added to this list, please let me know at pctsevens@gmail.com.
+
+NOTE:  This repository is provided "as is" with no guarantees. Use the contents on your own risk.
