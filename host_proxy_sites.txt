@@ -20,6 +20,7 @@
 0.0.0.0	croxy.org
 0.0.0.0	croxyproxy.com
 0.0.0.0	croxyproxy.net
+0.0.0.0 croxyproxy.pro
 0.0.0.0	croxyproxy.rocks
 0.0.0.0	dontfilter.us
 0.0.0.0	filterbypass.me
@@ -67,6 +68,7 @@
 0.0.0.0	www.croxy.org
 0.0.0.0	www.croxyproxy.com
 0.0.0.0	www.croxyproxy.net
+0.0.0.0 www.croxyproxy.pro
 0.0.0.0	www.croxyproxy.rocks
 0.0.0.0	www.dontfilter.us
 0.0.0.0	www.filterbypass.me
