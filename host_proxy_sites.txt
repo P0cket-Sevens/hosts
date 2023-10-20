@@ -21,8 +21,11 @@
 0.0.0.0	croxyproxy.com
 0.0.0.0	croxyproxy.net
 0.0.0.0 croxyproxy.pro
+0.0.0.0 croxy.network
 0.0.0.0	croxyproxy.rocks
+0.0.0.0 datatech.icu
 0.0.0.0	dontfilter.us
+0.0.0.0 fonesmartphone.com
 0.0.0.0	filterbypass.me
 0.0.0.0 freeproxy.me
 0.0.0.0 freeproxy.vip
@@ -68,8 +71,10 @@
 0.0.0.0	www.croxy.org
 0.0.0.0	www.croxyproxy.com
 0.0.0.0	www.croxyproxy.net
+0.0.0.0 www.croxy.network
 0.0.0.0 www.croxyproxy.pro
 0.0.0.0	www.croxyproxy.rocks
+0.0.0.0 www.datatech.icu
 0.0.0.0	www.dontfilter.us
 0.0.0.0	www.filterbypass.me
 0.0.0.0	www.hide.me
@@ -103,3 +108,9 @@
 0.0.0.0 www.plainproxies.com
 0.0.0.0 64.227.120.231
 0.0.0.0 cdn.croxyproxy.com
+0.0.0.0 157.230.113.153
+0.0.0.0 143.244.204.138
+0.0.0.0 157.230.79.247
+0.0.0.0 157.245.18.208
+0.0.0.0 134.209.250.149
+0.0.0.0 64.227.120.231
