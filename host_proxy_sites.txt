@@ -19,7 +19,9 @@
 0.0.0.0	blockaway.net
 0.0.0.0	croxy.org
 0.0.0.0	croxyproxy.com
+0.0.0.0 croxyproxy.com.in
 0.0.0.0	croxyproxy.net
+0.0.0.0 croxyproxy.pro
 0.0.0.0 croxyproxy.pro
 0.0.0.0 croxy.network
 0.0.0.0	croxyproxy.rocks
@@ -72,6 +74,7 @@
 0.0.0.0	www.croxyproxy.com
 0.0.0.0	www.croxyproxy.net
 0.0.0.0 www.croxy.network
+0.0.0.0 www.croxyproxy.pro
 0.0.0.0 www.croxyproxy.pro
 0.0.0.0	www.croxyproxy.rocks
 0.0.0.0 www.datatech.icu
