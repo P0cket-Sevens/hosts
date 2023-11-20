@@ -67,6 +67,7 @@
 0.0.0.0 freeproxy.win
 0.0.0.0 weboproxy.com
 0.0.0.0 genmirror.com
+0.0.0.0 youtubeunblocked.live
 0.0.0.0	www.4everproxy.com
 0.0.0.0	www.anonymizing.com
 0.0.0.0	www.blockaway.net
@@ -111,6 +112,7 @@
 0.0.0.0 www.plainproxies.com
 0.0.0.0 64.227.120.231
 0.0.0.0 cdn.croxyproxy.com
+0.0.0.0 www.youtubeunblocked.live
 0.0.0.0 157.230.113.153
 0.0.0.0 143.244.204.138
 0.0.0.0 157.230.79.247
